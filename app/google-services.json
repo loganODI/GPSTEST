@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190232948591",
+    "project_id": "gpstest-74bce"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190232948591:android:560e4ed3bc4c3324",
+        "android_client_info": {
+          "package_name": "com.gpslpm.com.gpstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190232948591-d0vccte6p70n01hhpeou2vc3saadoeja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gpslpm.com.gpstest",
+            "certificate_hash": "3ee20f8c8c3aa0b3b5eeed051be5f6e49b68d4b5"
+          }
+        },
+        {
+          "client_id": "190232948591-g6clmouev7cjf2t9mnl6rvnpl3k1daf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC05ehfP6V1fad9zjPbgAUwW0cdx390Mg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
